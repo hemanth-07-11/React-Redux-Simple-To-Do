@@ -1,8 +1,8 @@
 # React Redux ToDo 
 
 This is a simple client side todo with no backend work. Uses React and Redux. It was created following a [Tutorial](). Using this users can add mark as complete, remove a todo. 
-###### Uses Bootstrap SCSS for styling.
-)
+###### Uses Bootstrap and SCSS for styling.
+
 
 ## How to install and run the app
 In the project directory, run in your terminal `npm install` and then `npm start`
